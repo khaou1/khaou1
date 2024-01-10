@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @khaou1
-- 👀 I’m interested in Data analytics projects, using data to allow us to peer through the fog. 
-- 🌱 I’m currently learning C, pandas library, Python, numpy library, swift, and ready to learn more!
+- 👀 I’m interested in Data analytics, and creating data-driven solutions for success. 
+- 🌱 I’m currently learning C, Python, and various Data Science packages and ready to learn more!
 - 📫 How to reach me: Twitter: @HaouKaba and/or Email: khaou@uoregon.edu
 
 <!---
